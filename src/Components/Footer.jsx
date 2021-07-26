@@ -4,6 +4,13 @@ class Footer extends Component {
     return (
       <footer className="footer">
         <div className="container text-center">
+        
+        <a
+            className="cc-linkedin btn btn-link"
+            href="https://www.linkedin.com/in/ravindra-maddukuri-439390184/"
+          >
+            <i className="fa fa-linkedin fa-2x " aria-hidden="true"></i>
+          </a>
           <a
             className="cc-facebook btn btn-link"
             href="https://www.facebook.com/profile.php?id=100004489489097"

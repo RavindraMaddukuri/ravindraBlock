@@ -4,6 +4,16 @@ class Follow extends Component {
     return (
       <div className="container">
         <div className="button-container">
+        <a
+            className=" cc-linkedin btn btn-default btn-round btn-lg btn-icon btn-default:hover"
+            href="https://www.linkedin.com/in/ravindra-maddukuri-439390184/"
+            rel="tooltip"
+            target="_blank"
+            rel="tooltip"
+            title="Follow me on Linkedin"
+          >
+            <i className="fa fa-linkedin"></i>
+          </a>
           <a
             className=" cc-facebook btn btn-default btn-round btn-lg btn-icon btn-default:hover"
             href="https://www.facebook.com/profile.php?id=100004489489097"

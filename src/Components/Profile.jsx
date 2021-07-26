@@ -29,10 +29,10 @@ class Profile extends Component {
           </a>
           <a
             className="btn btn-primary"
-            href="https://drive.google.com/file/d/1blKOjLHaGQ5gIcxRREmgkvYkp0gZlF0e/view?usp=sharing"
+            href="https://drive.google.com/file/d/16wxHOYFp-59G0k_3XNiNwNagAmwiyySG/view?usp=sharing"
             data-aos="zoom-in"
             data-aos-anchor="data-aos-anchor"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             Download CV
           </a>
