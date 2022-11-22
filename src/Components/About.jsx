@@ -10,7 +10,7 @@ class About extends Component {
                 <div className="card-body">
                   <div className="h4 mt-0 title">About</div>
                   <p>
-                    Hello! My Self Ravinda Maddukuri. Organized and Skilled React.js and React Native developer more than 3 years of professional experience in Dynamic and deadline-driven environments. Good knowledge and experience in the latest technologies like JavaScript, react native, react.js and redux. 
+                    Hello! My Self Ravinda Maddukuri. Organized and Skilled React.js and React Native developer more than 4 years of professional experience in Dynamic and deadline-driven environments. Good knowledge and experience in the latest technologies like JavaScript, react native, react.js, cordova, firebase and redux. 
 
                   </p>
                 </div>
