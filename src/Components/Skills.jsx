@@ -209,6 +209,233 @@ class Skills extends Component {
                   </div>
                 </div>
               </div>
+
+
+
+
+
+
+
+
+                  <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">AWS</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "55%" }}
+                    ></div>
+                    <span className="progress-value">55%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Stream Chat</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "85%" }}
+                    ></div>
+                    <span className="progress-value">85%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Microsoft Azure</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "45%" }}
+                    ></div>
+                    <span className="progress-value">45%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">WebRTC</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "65%" }}
+                    ></div>
+                    <span className="progress-value">65%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Cordova</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "55%" }}
+                    ></div>
+                    <span className="progress-value">55%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Web packs</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "45%" }}
+                    ></div>
+                    <span className="progress-value">45%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">PWA</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "65%" }}
+                    ></div>
+                    <span className="progress-value">65%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Firebase Auth</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "85%" }}
+                    ></div>
+                    <span className="progress-value">85%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">AWS Cognito user pools</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "65%" }}
+                    ></div>
+                    <span className="progress-value">65%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Push notifications</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "75%" }}
+                    ></div>
+                    <span className="progress-value">75%</span>
+                  </div>
+                </div>
+              </div>    <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Hooks</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "85%" }}
+                    ></div>
+                    <span className="progress-value">85%</span>
+                  </div>
+                </div>
+              </div>
+
+               <div className="col-md-6">
+                <div className="progress-container progress-primary">
+                  <span className="progress-badge">Redux</span>
+                  <div className="progress">
+                    <div
+                      className="progress-bar progress-bar-primary"
+                      data-aos="progress-full"
+                      data-aos-offset="10"
+                      data-aos-duration="2000"
+                      role="progressbar"
+                      aria-valuenow="60"
+                      aria-valuemin="0"
+                      aria-valuemax="100"
+                      style={{ width: "85%" }}
+                    ></div>
+                    <span className="progress-value">85%</span>
+                  </div>
+                </div>
+              </div> 
             </div>
           </div>
         </div>

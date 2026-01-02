@@ -6,6 +6,7 @@ import Skills from "./Skills";
 import Experience from "./Experience";
 import Education from "./Education";
 import Contact from "./Contact";
+import Projects from "./Projects";
 // import Follow from "./Follow";
 
 class Content extends Component {
@@ -41,6 +42,11 @@ class Content extends Component {
             <div className="section" id="experience">
               <Experience />
             </div>
+
+             <div className="section" id="experience">
+              <Projects />
+            </div>
+
             <div className="section">
               <Education />
             </div>

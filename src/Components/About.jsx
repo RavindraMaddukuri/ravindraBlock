@@ -10,8 +10,9 @@ class About extends Component {
                 <div className="card-body">
                   <div className="h4 mt-0 title">About</div>
                   <p>
-                    Hello! My Self Ravinda Maddukuri. Organized and Skilled React.js and React Native developer more than 4 years of professional experience in Dynamic and deadline-driven environments. Good knowledge and experience in the latest technologies like JavaScript, react native, react.js, cordova, firebase and redux. 
-
+Hello! I’m Ravindra Maddukuri, a Tech Lead (React & React Native) with 7+ years of professional experience building and leading scalable web and mobile applications in fast-paced, deadline-driven environments. I specialize in React.js, React Native, JavaScript, and modern frontend architecture, with strong hands-on experience in Firebase, Redux, Cordova, and cloud-integrated solutions.
+                  </p>
+                  <p>I have led multiple end-to-end projects across fintech, healthcare, gaming, and social platforms, focusing on clean architecture, performance optimization, and team collaboration. I enjoy mentoring developers, owning technical decisions, and delivering reliable, user-centric products.
                   </p>
                 </div>
               </div>
